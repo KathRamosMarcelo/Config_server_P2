@@ -9,9 +9,9 @@ spring:
     config:
       server:
         git:
-          uri:  https://github.com/KathRamosMarcelo/Config_server_P2
+          uri: https://github.com/KathRamosMarcelo/Config_server_P2
           searchPaths: /
-           default-label: "main"
-           username:nttdata
-           password:nttdata 
+          default-label: "main"
+          username: nttdata
+          password: nttdata 
 
