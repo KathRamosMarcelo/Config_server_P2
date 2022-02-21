@@ -11,7 +11,7 @@ spring:
         git:
           uri: https://github.com/KathRamosMarcelo/Config_server_P2
           searchPaths: /
-          default-label: "main"
+          default-label: "master"
           username: nttdata
           password: nttdata 
 
